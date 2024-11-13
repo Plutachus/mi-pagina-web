@@ -1,0 +1,16 @@
+project:
+  type: website
+  
+website:
+  navbar:
+    right:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Acerca de"
+        href: about.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-location: left
