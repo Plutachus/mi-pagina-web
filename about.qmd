@@ -5,11 +5,11 @@ about:
   image: JIE_logo.png
   links:
     - icon: twitter
-      text: twitter
+      text: twitter (?)
       href: https://twitter.com
     - icon: github
-      text: Github
-      href: https://github.com
+      text: Github de la página
+      href: https://github.com/Plutachus/mi-pagina-web
 ---
 
 Las III Jornadas de Ingeniería Estadística son un evento que se efectúa desde hace tres años en el Departamento de Matemática y Ciencia de la Computación, en la Universidad de Santiago.
