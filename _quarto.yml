@@ -1,16 +1,18 @@
 project:
   type: website
-  
+  output-dir: docs
+
 website:
+  title: "Mini Curso Quarto Github Pages"
   navbar:
-    right:
-      - text: "Inicio"
-        href: index.qmd
-      - text: "Acerca de"
-        href: about.qmd
+    left:
+      - href: index.qmd
+        text: Home
+      - href: https://jornadas-estadistica.github.io/
+        text: JIE-2024
 
 format:
   html:
     theme: cosmo
-    toc: true
-    toc-location: left
+    css: styles.css
+    toc: false
